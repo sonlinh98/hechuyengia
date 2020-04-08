@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="String1" xml:space="preserve">
+    <value>--Ban Chuan
+USE master
+GO
+IF EXISTS (SELECT name 
+	FROM sysdatabases 
+	WHERE  name = 'TUVANMAYTINH')
+BEGIN 
+	PRINT 'db exists'
+	DROP DATABASE TUVANMAYTINH 
+	PRINT 'dropped db'
+END
+GO 
+--Tao moi db
+CREATE DATABASE TUVANMAYTINH 
+ON PRIMARY(NAME = TUVANMAYTINH_DATABASE, FILENAME = 'E:\TUVANMAYTINH__DATABSE.MDF', SIZE = 5, MAXSIZE = UNLIMITED, FILEGROWTH = 2)
+LOG ON(NAME = TUVANMAYTINH_LOG, FILENAME = 'E:\TUVANMAYTINH_LOG.LDF', SIZE = 1, MAXSIZE = UNLIMITED, FILEGROWTH = 2)
+PRINT 'create new db successfully'
+GO
+--====================================================================================
+--TẠO BẢNG
+USE TUVANMAYTINH
+GO
+CREATE TABLE DuLieu(
+	Stt INT IDENTITY PRIMARY KEY,
+	Age NVARCHAR(20),
+	Sex NVARCHAR(20),
+	Income NVARCHAR(20),
+	Configuration NVARCHAR(20),
+	Manufacturers NVARCHAR(20),
+	Os NVARCHAR(20),
+	Buy NVARCHAR(20))
+GO
+--====================================================================================
+--CHÈN DL
+USE TUVANMAYTINH
+GO
+INSERT INTO DuLieu VALUES('youth','male','high','high','SONY','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','male','low','low','DELL','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','female','high','high','APPLE','Mac OS', 'Yes')
+INSERT INTO DuLieu VALUES('youth','male','high','medium','DELL','Linux', 'No')
+INSERT INTO DuLieu VALUES('middle-aged','male','medium','high','APPLE','Mac OS', 'Yes')
+INSERT INTO DuLieu VALUES('youth','female','high','high','DELL','Windows', 'No')
+INSERT INTO DuLieu VALUES('senior','male','low','medium','SAMSUNG','Linux', 'Yes')
+INSERT INTO DuLieu VALUES('youth','male','low','low','HP','Linux', 'Yes')
+INSERT INTO DuLieu VALUES('middle-aged','female','low','high','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('middle-aged','male','medium','medium','APPLE','Mac OS', 'Yes')
+INSERT INTO DuLieu VALUES('youth','female','medium','high','ASUS','Windows', 'No')
+INSERT INTO DuLieu VALUES('youth','male','high','low','ASUS','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','male','medium','medium','HP','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('youth','female','low','high','DELL','Windows', 'No')
+INSERT INTO DuLieu VALUES('middle-aged','male','low','medium','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('senior','male','medium','low','DELL','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','female','low','medium','SONY','Windows', 'No')
+INSERT INTO DuLieu VALUES('middle-aged','male','high','low','HP','Linux', 'No')
+INSERT INTO DuLieu VALUES('youth','male','medium','high','HP','Linux', 'No')
+INSERT INTO DuLieu VALUES('senior','female','medium','low','APPLE','Mac OS', 'Yes')
+INSERT INTO DuLieu VALUES('senior','female','low','medium','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('youth','female','medium','medium','ASUS','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('middle-aged','male','low','high','SAMSUNG','Windows', 'No')
+INSERT INTO DuLieu VALUES('youth','female','high','medium','DELL','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('youth','male','low','high','ASUS','Linux', 'No')
+
+
+INSERT INTO DuLieu VALUES('middle-aged','female','medium','medium','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('senior','male','high','medium','SONY','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','male','medium','high','APPLE','Mac OS', 'Yes')
+INSERT INTO DuLieu VALUES('middle-aged','female','high','medium','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('youth','male','medium','medium','APPLE','Mac OS', 'Yes')
+
+INSERT INTO DuLieu VALUES('senior','female','low','high','ASUS','Linux', 'Yes')
+INSERT INTO DuLieu VALUES('middle-aged','male','low','low','APPLE','Mac OS', 'No')
+INSERT INTO DuLieu VALUES('senior','male','high','high','ASUS','Windows', 'Yes')
+INSERT INTO DuLieu VALUES('senior','female','high','low','DELL','Windows','Yes')
+INSERT INTO DuLieu VALUES('middle-aged','female','medium','low','SONY','Windows','Yes')
+INSERT INTO DuLieu VALUES('youth','male','medium','low','HP','Linux','Yes')
+INSERT INTO DuLieu VALUES('middle-aged','male','high','low','ASUS','Linux','No')
+INSERT INTO DuLieu VALUES('senior','female','medium','high','ASUS','Windows','No')
+INSERT INTO DuLieu VALUES('youth','female','low','medium','HP','Windows','Yes')
+INSERT INTO DuLieu VALUES('middle-aged','female','medium','high','APPLE','Mac OS','Yes')
+
+INSERT INTO DuLieu VALUES('senior','male','medium','high','SONY','Mac OS','No')
+INSERT INTO DuLieu VALUES('youth','male','low','medium','SAMSUNG','Linux','Yes')
+INSERT INTO DuLieu VALUES('middle-aged','female','high','high','DELL','Windows','Yes')
+INSERT INTO DuLieu VALUES('youth','female','medium','low','HP','Linux','No')
+INSERT INTO DuLieu VALUES('middle-aged','male','high','medium','DELL','Windows','Yes')
+INSERT INTO DuLieu VALUES('middle-aged','male','medium','low','HP','Windows','Yes')
+INSERT INTO DuLieu VALUES('senior','female','high','medium','HP','Windows','No')
+
+
+
+GO
+SELECT * FROM DuLieu
+--====================================================================================
+
+--TẠO BẢNG LUẬT
+USE TUVANMAYTINH
+GO
+CREATE TABLE Luat(
+	Stt INT IDENTITY PRIMARY KEY,
+	Age NVARCHAR(20),
+	Sex NVARCHAR(20),
+	Income NVARCHAR(20),
+	Configuration NVARCHAR(20),
+	Manufacturers NVARCHAR(20),
+	Os NVARCHAR(20),
+	Buy NVARCHAR(20))
+GO
+
+Select * from LUAT</value>
+  </data>
+</root>

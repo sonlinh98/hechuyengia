@@ -1,0 +1,80 @@
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojAssemblyReference.cache
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormHuongDanCauHinhCSDL.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormNhapDL.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.cache
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.CoreCompileInputs.cache
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\hechuyengia\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojAssemblyReference.cache
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormHuongDanCauHinhCSDL.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormNhapDL.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.cache
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.CoreCompileInputs.cache
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\BaiTapLon_HeChuyenGia_Nhom8\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojResolveAssemblyReference.cache
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormHuongDanCauHinhCSDL.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormNhapDL.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\Study\Year 4\Ky1\HCG\FileCode\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.Cache
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojResolveAssemblyReference.cache
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormHuongDanCauHinhCSDL.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormNhapDL.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\Study\Year 4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.Cache
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.Cache
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.HuongDanCauHinhCSDL.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.QuanLyDuLieuHuanLuyen.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinh\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojResolveAssemblyReference.cache
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe.config
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.exe
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.exe
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\bin\Debug\HCG_TuVanMuaMayTinh.pdb
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csprojResolveAssemblyReference.cache
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.BTL_HCG.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.HuongDanCauHinhCSDL.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.FormLuat.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.QuanLyDuLieuHuanLuyen.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Properties.Resources.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.Resource1.resources
+E:\University\Year_4\Ky1\HCG\ChuongTrinhFinal\HCG_TuVanMuaMayTinh\obj\Debug\HCG_TuVanMuaMayTinh.csproj.GenerateResource.Cache
